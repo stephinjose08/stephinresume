@@ -1,0 +1,56 @@
+﻿ *{
+    max-width: 900px;
+    margin: auto;
+}
+body {
+    border: 5px solid powderblue;
+    margin: 10px;
+    background-color:rgb(255,255,255);
+}
+    .head {
+    background-color: rgb(64,64,64);
+    color: white;
+    border: 2px solid black;
+    margin: 2px;
+    padding: 2px;
+}
+    h1 {
+        color:black;
+    }
+h2 {
+    font:san-serif;
+    color:black;
+}
+h3{
+    color:black;
+}
+
+.sechead {
+    background-color: rgb(180,180,180);
+    color: white;
+    border: 2px solid black;
+    margin: 2px;
+    padding: 2px;
+}
+
+.content {
+    background-color: rgb(240,240,240);";
+    color: white;
+    border: 2px solid black;
+    margin: 2px;
+    padding: 2px;
+}
+
+
+
+
+img {
+    border-radius: 50%;
+    padding: 10px;
+}
+
+
+
+
+
+}
